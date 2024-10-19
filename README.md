@@ -12,9 +12,6 @@ We compiled and executed this project in Anaconda's Spyder environment in python
 
 A sample UI for predicting the right customer group provides a visual representation of the customer prediction process, featuring tools and functionalities for accurate segmentation.
 
-![alt text](![image](https://github.com/user-attachments/assets/a9dfab7d-7ca9-4a46-b056-2e6e11db1982)
-)
-
 A sample dataset for predicting the right customer group includes columns representing features and target variables for customer segmentation.
 
 The UI showcases the dataset after preprocessing, including data split for training and testing. A count plot visualizes customer segmentation in the automobile industry, offering insights into distribution. The dataset analysis highlights key trends for predicting customer groups. 
